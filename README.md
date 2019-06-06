@@ -22,7 +22,6 @@ Student Bio
   <br>
 
   <p>Born and raised in Fairfax Va.  Went to High School and first College in WI, and now I live in FL.  Have 2 children 8 an 14 and they are my world.<p>
-  <br>
 
   <p>Help me get the h@#ll out of my current postion<p>
 
@@ -32,6 +31,7 @@ Student Bio
     <li>Email:jdhowells02@gmail.com<li>
     <li>Github:jdhowells79<li>
     <li>Portfolio:#<li>
+  <ul>  
 
 </body>
 
